@@ -1,7 +1,9 @@
 import torch
 import torch.nn.functional as F
 from torch import nn
+
 import matpotlib.pyplot as plt
+import numpy as np
 
 
 class Network(nn.Module):
