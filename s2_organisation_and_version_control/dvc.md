@@ -25,7 +25,7 @@ nav_order: 4
 > Core module
 
 In this module we are going to return to version control. However, this time we are going to focus on version control
-of data. The reason we need to separate between standandard version control and data version control comes down to one
+of data. The reason we need to separate between standard version control and data version control comes down to one
 problem: size.
 
 Classic version control was developed to keep track of code files, which all are simple text files. Even a codebase that
